@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "name": "Shirts",
+      "subcategory": [
+        "T-shirts",
+        "Polo Shirts",
+        "Formal Shirts",
+        "Dress shirts",
+        "Casual Shirts",
+        "Denim Shirts"
+      ]
+    },
+    {
+      "name": "Jackets",
+      "subcategory": [
+        "Hoodies",
+        "Bomber Jackets",
+        "Denim Jackets",
+        "Leather Jackets",
+        "Puffer Jackets",
+        "Varsity Jackets"
+      ]
+    },
+    {
+      "name": "Pants",
+      "subcategory": [
+        "Formal Pants",
+        "Dress Pants",
+        "Casual Pants",
+        "Jeans",
+        "SweatPants",
+        "Cargos",
+        "Joggers"
+      ]
+    },
+    {
+      "name": "Shorts",
+      "subcategory": [
+        "Cargo Shorts",
+        "Denim Shorts",
+        "Printed Shorts",
+        "Chino Shorts"
+      ]
+    },
+    {
+      "name": "Coats",
+      "subcategory": ["Blazers", "Sports coats", "Overcoats"]
+    },
+    {
+      "name": "Accessories",
+      "subcategory": ["Hats", "Neckwear", "Belts", "Socks", "Gloves", "Bags"]
+    },
+    {
+      "name": "Footwear",
+      "subcategory": [
+        "Dress Shoes",
+        "Loafers",
+        "Boots",
+        "Sneakers",
+        "Athletic Shoes",
+        "Sandals"
+      ]
+    }
+  ]
+}
